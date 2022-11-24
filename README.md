@@ -25,7 +25,9 @@ Install Steps:
 6. Run yarn dev in the project root directory
 
 Notes: 
-- In case of problems make sure MongoDB is turned on and available at localhost:27017
+- In case of problems, make sure MongoDB is turned on and available at localhost:27017
 - You may have to make changes to the server.js file, the index.js file
 - There is extra code that may be distracting, and not part of the core functionality. DON'T DELETE IT, commenting out is ok, but your task is to work around it
 - Your challenge is to figure out how to get this running, make the changes, and get it hosted, without restarting from scratch (even though that may be faster)
+
+- Contact careers@cratic.ai if you have questions
