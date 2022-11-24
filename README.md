@@ -1,72 +1,31 @@
+# anna
+This is a practice repo for developers who want to work for Cratic
 
-# annabelle
-# Getting Started with Create React App
+How To Apply for job at Cratic:
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+1. Go here: https://github.com/therealizzi/anna
+2. Fork the code, get it running on your local computer
+3. Setup a database with mongodb
+4. Add a feature (must incorporate user text input, storage, and at least one third-party API)
+5. Add a few basic designs to the feature, and make responsive / mobile friendly
+6. Host the app on a new domain (use your own domain, publish it, make it live)
+7. Send a link, with a short bio about yourself, and your reasoning for wanting to work for Cratic Ai to careers@cratic.ai 
 
-## Available Scripts
+That's it. If you are able to do this, we can't wait to meet you!
 
-In the project directory, you can run:
+Cratic Ai
 
-### `yarn start`
+Install Steps:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+1. Install Node.JS
+2. Install Mongo
+3. Install Yarn
+4. Clone This Repository To Your Local Environment
+5. Run yarn install in the project root directory
+6. Run yarn dev in the project root directory
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `yarn test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `yarn build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Notes: 
+- In case of problems make sure MongoDB is turned on and available at localhost:27017
+- You may have to make changes to the server.js file, the index.js file
+- There is extra code that may be distracting, and not part of the core functionality. DON'T DELETE IT, commenting out is ok, but your task is to work around it
+- Your challenge is to figure out how to get this running, make the changes, and get it hosted, without restarting from scratch (even though that may be faster)
