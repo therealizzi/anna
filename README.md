@@ -1,5 +1,5 @@
 # anna
-This is a practice repo for developers who want to work for Cratic
+This is a practice repo for developers who want to work for Cratic (MUST BE ELIGIBLE TO WORK IN CANADA)
 
 How To Apply for job at Cratic:
 
