@@ -1,7 +1,9 @@
 # anna
-This is a practice repo for developers who want to work for Cratic (MUST BE ELIGIBLE TO WORK IN CANADA)
+This is a practice repo for developers who want to work for Cratic (must be eligible to work in Canada)
 
 How To Apply for job at Cratic:
+
+(Eligible Canadian workers only)
 
 1. Go here: https://github.com/therealizzi/anna
 2. Fork the code, get it running on your local computer
@@ -13,7 +15,7 @@ How To Apply for job at Cratic:
 
 - Your challenge is to figure out how to get this running, make the changes, get it hosted, and without re-starting from scratch (even though that may be faster)
 
-If you complete this challenge, we will be very excited to meet you.
+If you complete this challenge, please email us at careers@cratic.ai, we will be very excited to meet you.
 
 ------------------------
 
@@ -29,6 +31,7 @@ Install Steps:
 ------------------------
 
 Other Notes: 
+- All applicants must be eligible to work in Canada
 - This exercise is testing (a) your ability to work in our code environment, (b) to use existing code to solve new problems, (c) to think for yourself and come up with new solutions, (d) to make basic UI/UX decisions, and (e) to pull it all together and put live code on the internet
 - There is extra code that will be distracting, and not part of the core functionality. DON'T DELETE IT. Commenting out is ok, but your task is to work around it
 - You may have to make changes to the server.js file, the index.js file, and other files
